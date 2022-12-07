@@ -1,3 +1,3 @@
-#!/usr/bin/pythoni3
+#!/usr/bin/python3
 
 python3 -c 'print("\"Programming is like building a multilingual puzzle \n")'
