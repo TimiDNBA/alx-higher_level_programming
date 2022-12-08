@@ -2,4 +2,4 @@
 
 number = 3.14159
 
-print("%.1f\n" % number)
+print("{:.1f}\n".format(number))
